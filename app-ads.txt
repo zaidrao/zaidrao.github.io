@@ -1,5 +1,5 @@
 google.com, pub-7106945683291041, DIRECT, f08c47fec0942fa0
-
+facebook.com, 26419113454415726, DIRECT, c3e20eee3f780d68
 applovin.com, 629854559b2cb68c90ead2ea698b5620, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
